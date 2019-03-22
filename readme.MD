@@ -1,0 +1,1 @@
+These were my first true programs in Python. I did them for coursera.org. Thank you.
