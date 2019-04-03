@@ -1,5 +1,5 @@
 # Spaceship
-# by Cam Simmons for Interactive Programming w/ Python Part 2
+# Interactive Programming w/ Python Part 2
 # Run at http://www.codeskulptor.org/#user43_kgjq3vUOI6_11.py
 # Beta 
 
