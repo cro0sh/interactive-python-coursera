@@ -1,5 +1,5 @@
 # Asteroids
-# by Cam Simmons
+
 # TODO: explosions/animation
 
 import simplegui
