@@ -1,5 +1,5 @@
 # Blackjack
-# Cam Simmons for Interactive Programming With Python Pt 2
+# Interactive Programming With Python Pt 2
 # Run at http://www.codeskulptor.org/#user43_y9hKDBTQoC_1.py
 
 import simplegui
